@@ -1,7 +1,7 @@
 #EXTM3U
-#EXTINF:-1,SO UNIVERSAL TV
+#EXTINF:-1,UNIVERSALTV
 https://5928f90056f31.streamlock.net/universal-live/universal/playlist.m3u8
-#EXTINF:-1,SO KALSAN TV
+#EXTINF:-1,KALSANTV
 http://cdn.mediavisionuae.com:1935/live/kalsantv.stream/playlist.m3u8
-#EXTINF:-1,SO HORYAAL TV
+#EXTINF:-1,HORYAALTV
 http://cdn.mediavisionuae.com:1935/live/horyaaltv.stream/playlist.m3u8
