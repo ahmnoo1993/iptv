@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 UNIVERSALTV
+#EXTINF:-1 tvg-logo="UNIVERSALTV"
 https://5928f90056f31.streamlock.net/universal-live/universal/playlist.m3u8
 #EXTINF:-1 KALSANTV
 http://cdn.mediavisionuae.com:1935/live/kalsantv.stream/playlist.m3u8
