@@ -1,7 +1,21 @@
 #EXTM3U
-#EXTINF:-1,UniversalTV
+#EXTINF:-1,Bulsho TV
+https://ap01.iqplay.tv:81/iqb8002/bu1sho41.m3u8
+#EXTINF:-1,SNTV
+https://ap01.iqplay.tv:81/iqb8002/s4ne.m3u8
+#EXTINF:-1,Universal TV
 https://5928f90056f31.streamlock.net/universal-live/universal/playlist.m3u8
-#EXTINF:-1,KalsanTV
-http://cdn.mediavisionuae.com:1935/live/kalsantv.stream/playlist.m3u8
-#EXTINF:-1,HoryaalTV
+#EXTINF:-1,Horyaal TV
 http://cdn.mediavisionuae.com:1935/live/horyaaltv.stream/playlist.m3u8
+#EXTINF:-1,Kalsan TV
+http://cdn.mediavisionuae.com:1935/live/kalsantv.stream/playlist.m3u8
+#EXTINF:-1,Jubbaland TV
+https://cdn02.iqbroadcast.tv/iqb/3748782c336460247a0ea0b592d4130c.sdp/index.m3u8
+#EXTINF:-1,SBC TV
+http://62.210.251.188:1935/live/sbctv.stream/playlist.m3u8
+#EXTINF:-1,Horn Cable
+http://cdn.mediavisionuae.com:1935/live/hctvlive.stream/playlist.m3u8
+#EXTINF:-1,Puntland TV
+https://ap01.iqplay.tv:81/iqb8002/p2t25.m3u8
+#EXTINF:-1,Somali Cable TV
+https://ap01.iqplay.tv:81/iqb8002/somc131.m3u8
